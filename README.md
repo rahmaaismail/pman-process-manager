@@ -41,4 +41,4 @@ This program is intended to be compiled and run on `linux.csc.uvic.ca`. Behavior
 Because this project uses fork(), it is recommended to limit the maximum number of user processes before testing to avoid accidental fork bombs:
 ulimit -u 35
 
-This project was completed individually for CSC 360 and is intended for educational purposes only.
+This project was completed individually for CSC 360, received a 100% grade, and is intended for educational purposes only.
